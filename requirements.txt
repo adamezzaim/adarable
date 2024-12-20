@@ -1,0 +1,15 @@
+kagglehub
+pandas
+matplotlib
+seaborn
+nltk
+scikit-learn
+cpi
+joblib
+numpy
+streamlit
+statsmodels
+networkx
+pyvis
+streamlit_lottie
+plotly
